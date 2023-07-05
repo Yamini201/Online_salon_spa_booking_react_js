@@ -1,0 +1,21 @@
+.navbar{
+    background-color: rgb(206, 65, 192);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    height: 10vh;
+    line-height: 10dvh;
+}
+nav ul li{
+    display: inline-block;
+    transition: all 0.5s ease-in;
+    margin: 0 30px 0 0;
+}
+nav ul li{
+    color: white;
+    font-weight: 100;
+    font-size: 15px;
+    letter-spacing: 2px;
+    transition: all 0.5s ease-in-out;
+    opacity: 0.8;
+}
